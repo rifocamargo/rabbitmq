@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    addresses: localhost:5672,localhost:5673
+    username: appuser
+    password: secret
